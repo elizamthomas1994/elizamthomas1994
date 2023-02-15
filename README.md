@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizamthomas1994&label=Profile%20views&color=0e75b6&style=flat" alt="elizamthomas1994" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elizamthomas1994" alt="elizamthomas1994" /></a> </p>
-
 - 🌱 I’m currently learning **React-Native, Java, Python and more!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/elizamthomas1994](https://github.com/elizamthomas1994)
