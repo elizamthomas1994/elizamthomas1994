@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://github.com/elizamthomas1994/CV](https://github.com/elizamthomas1994/CV)
 
-- ⚡ Fun fact **I love trying new things, such as one time where I flew a plane!**
+- ⚡ Fun fact **I love trying new things, such as flying planes or playing electric guitar live in concert!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
