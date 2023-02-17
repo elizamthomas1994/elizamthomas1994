@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizamthomas1994&label=Profile%20views&color=0e75b6&style=flat" alt="elizamthomas1994" /> </p>
 
-- 🌱 I’m currently learning **React-Native, Java, Python and more!**
+- 🌱 I’m currently learning **Java and Python as well as revising Ruby and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/elizamthomas1994](https://github.com/elizamthomas1994)
 
