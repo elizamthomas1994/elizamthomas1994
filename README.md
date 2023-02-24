@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizamthomas1994&label=Profile%20views&color=0e75b6&style=flat" alt="elizamthomas1994" /> </p>
 
-- 🌱 I’m currently learning **Python** and enhancing my JavaScript framework knowledge by studying **AngularJS and Vue.js**
+- 🌱 I’m currently learning **Java**, **Python** and enhancing my JavaScript framework knowledge by studying **AngularJS and Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/elizamthomas1994](https://github.com/elizamthomas1994)
 
