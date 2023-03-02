@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Java**, **Python** and enhancing my JavaScript framework knowledge by studying **AngularJS and Vue.js**
 
+- 🗂 I'm currently working on implementing **responsive design** to a web application for Ramses Inc, which I volunteered for through donatecode.io.
+
 - 👨‍💻 All of my projects are available at [https://github.com/elizamthomas1994](https://github.com/elizamthomas1994)
 
 - 📝 I regularly write articles on [https://medium.com/@elizamthomas1994](https://medium.com/@elizamthomas1994)
