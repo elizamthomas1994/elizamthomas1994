@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizamthomas1994&label=Profile%20views&color=0e75b6&style=flat" alt="elizamthomas1994" /> </p>
 
-- 🌱 I’m currently learning **Java**, **Python** and enhancing my JavaScript framework knowledge by studying **AngularJS and Vue.js**
-
 - 🗂 I'm currently working on implementing **responsive design** using **Tailwind CSS** and **Next.js** for a web application for Ramses Inc, which I volunteered for through donatecode.com.
+
+- 🌱 I’m currently building projects in **Java** and **Python** to gain familiarity with new languages.
 
 - 👨‍💻 All of my projects are available at [https://github.com/elizamthomas1994](https://github.com/elizamthomas1994)
 
