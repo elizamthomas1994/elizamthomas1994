@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eliza Thomas</h1>
-<h3 align="center">An eager and ambitious Junior Software Developer from Surrey, UK</h3>
+<h3 align="center">An Associate Software Engineer from Surrey, UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizamthomas1994&label=Profile%20views&color=0e75b6&style=flat" alt="elizamthomas1994" /> </p>
 
