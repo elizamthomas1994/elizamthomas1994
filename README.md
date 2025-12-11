@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizamthomas1994&label=Profile%20views&color=0e75b6&style=flat" alt="elizamthomas1994" /> </p>
 
-- 🌱 I’m currently self-studying DevOps Engineering and Microservices.
+- 🌱 I’m currently enhancing my skills at design and architecture trade-offs at Trainline.
 
 - 👨‍💻 All of my personal projects are available at [https://github.com/elizamthomas1994](https://github.com/elizamthomas1994)
 
-- 📝 You can find articles about my entry into tech in 2022 on [https://medium.com/@elizamthomas1994](https://medium.com/@elizamthomas1994)
+- 📝 You can find articles about my initial entry into tech in 2022 on [https://medium.com/@elizamthomas1994](https://medium.com/@elizamthomas1994)
 
 - 📫 You can contact me by email at: **elizamthomas1994@gmail.com**
 
